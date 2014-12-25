@@ -5,4 +5,6 @@ How is the staging area different from the working directory and the repository?
 How can you use the staging area to make sure you have one commit per logical change?
 	You use staging area when you are ready to commit your changed, this give you more control over commit as you may not want to commit all of the files you have been changing in your working area.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
-	Branches give you a freedom to make paralel changes to your master branch 
+	Branches give you a freedom to make paralel changes to your master branch.
+How do the diagrams help you visualize the branch structure?
+	Diagrams helps you understand the branch structure and visualize it.
