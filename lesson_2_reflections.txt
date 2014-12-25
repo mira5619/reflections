@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+	Because when you initialize a repository the git create metadata and start to track the files you commit to repository.That is actual difference between usual directory and git repository-.git meta data.
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	In staging area we put our ready to commit files, it is different from working area where we can have more files, not all of them we want to commit now, some of them we do not want to commit at all.
