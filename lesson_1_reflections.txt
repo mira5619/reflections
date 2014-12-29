@@ -1,5 +1,5 @@
 How dis viewing a diff between two versions of a file help you see the bug that was introduced?
-  You can see very is the difference and to find for a no time the mistake that create your bug.
+  You can see where is the difference and to find for a no time the mistake that create your bug.
 
 How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
 	If you have access to all history you will be not afraid to make a changes, you can always return to the oldest version if it did not worked for you.
